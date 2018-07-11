@@ -1,0 +1,5 @@
+---
+dependencies:
+  - role:       'python'
+    when:       skipdeps is not defined
+
