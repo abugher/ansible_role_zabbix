@@ -8,3 +8,4 @@ install_packages:
   - 'libmysqlclient-dev'        # for zabbix
 install_python_packages:
   - 'mysql-python'              # for mysql_db ansible module, for zabbix
+  - 'python'
